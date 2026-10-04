@@ -4,4 +4,4 @@
 使用語言:
 C、C++、python
 	
-UVA 題目皆在zerojudge上AC，OJ測資較強，可能NA
+
